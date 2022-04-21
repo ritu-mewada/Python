@@ -1,0 +1,10 @@
+Python Libraries:
+1. numpy
+2. pandas
+3. matplotlib
+4. datetime
+5. scipy
+6. scikitlearn
+7. beautifulsoup
+8. requests
+9. urllib
